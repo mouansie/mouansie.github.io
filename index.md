@@ -32,7 +32,6 @@ Je me nomme MOUANSIE YAYE, née le 01 Novembre 1994 a Massangam de nationnalité
 *  **2018-2019** : Diplôme supérieur d’enseignement professionnel.
 
 ## Expérienc Profesionnelle
-*  **2021**: Employée au Centre de Santé Sainte Elisabeth.
 *  **2021 (6 mois)** : Personnel contractuel CHDSMP (Centre Hospitalier Dominicain Saint Martin de Porres) de Yaoundé
 * **2020 (1an)** : Stagiaire au CHDSMP
 * **2019 (1mois)** : Stagiaire à l’hôpital Jamot de Yaoundé
@@ -50,11 +49,11 @@ Je me nomme MOUANSIE YAYE, née le 01 Novembre 1994 a Massangam de nationnalité
 * Administration de soins.
 
 ## Qualités
-* Travailleuse (capable de travailler sous-pression)
-* Dynamique, humble et endurante
+* Travailleur (capable de travailler sous-pression)
+* Dynamique, humble et endurant
 * Esprit d’équipe
-* Entreprenante
-* Disciplinée
+* Entreprenant
+* Discipliné
 
 ## Divers et Loisirs
 * Sport (footing,gymnastique), tourisme
