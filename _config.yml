@@ -13,3 +13,5 @@ gems:
 plugins:
   - jekyll-seo-tag
 google_analytics: false
+
+theme: jekyll-theme-minimal
